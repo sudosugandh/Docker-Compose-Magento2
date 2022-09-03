@@ -58,4 +58,8 @@ nano /etc/apache2/sites-available/000-default.conf
 /etc/init.d/apache2 restart
 /etc/init.d/elasticsearch restart
 
-
+<img
+  src="/Docker-Compose-Magento2/MDD.png"
+  alt="Alt text"
+  title="Magento2-Docker"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
