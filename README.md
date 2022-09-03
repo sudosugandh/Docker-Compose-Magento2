@@ -60,6 +60,6 @@ nano /etc/apache2/sites-available/000-default.conf
 
 <img
   src="/Docker-Compose-Magento2/MDD.png"
-  alt="Alt text"
+  alt="Magento2-Docker"
   title="Magento2-Docker"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
