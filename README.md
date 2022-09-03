@@ -44,7 +44,7 @@ Change Database identity according to your need eg : database-name | username | 
 --timezone=America/Chicago \
 --use-rewrites=1
 
-# Userful commands...
+# Usefull commands...
 find var generated vendor pub/static pub/media app/etc -type f -exec chmod g+w {} +
 find var generated vendor pub/static pub/media app/etc -type d -exec chmod g+ws {} +
 chown -R :www-data .
