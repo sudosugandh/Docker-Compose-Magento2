@@ -26,9 +26,9 @@ sudo systemctl restart docker.service
 
 # Step 2:- Get docker environment project in your system:
 
-HTTPS : https://github.com/sugandhkumar01/Docker-Compose-Magento2.git
+HTTPS : https://github.com/sudosugandh/Docker-Compose-Magento2.git
 
-SSH : git@github.com:sugandhkumar01/Docker-Compose-Magento2.git
+SSH : git@github.com:sudosugandh/Docker-Compose-Magento2.git
 
 # Step 3:- Build and Run Docker Project :-
 
